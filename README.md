@@ -1,0 +1,1 @@
+A minimal configuration for spark interaction from scala
